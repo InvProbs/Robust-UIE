@@ -17,3 +17,10 @@ pip install -r requirements.txt
 
 ## Training
 Please refer to `main.py` to start training.
+
+## Architecture
+<p align="center">
+  <img src="assets/PhyNN-fixpoint-diagram3.png" alt="Overview of the method" width="90%">
+</p>
+
+<p align="center"><i>Figure 1. Overview of the proposed method.</i></p>
